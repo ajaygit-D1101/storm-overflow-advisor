@@ -1,0 +1,6 @@
+asset_id,timestamp,event_type,duration_min
+CSO-001,2023-09-15T14:00:00,Spill,120
+CSO-001,2023-08-10T09:30:00,Spill,45
+CSO-002,2023-01-20T10:00:00,Blockage,240
+CSO-005,2023-09-15T15:00:00,Spill,180
+CSO-007,2023-05-12T08:00:00,Blockage,60

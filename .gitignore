@@ -1,0 +1,16 @@
+# Secrets
+config.py
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv_311/
+
+# System
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

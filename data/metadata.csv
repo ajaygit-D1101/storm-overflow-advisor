@@ -1,0 +1,8 @@
+asset_id,water_body_sensitivity,population_served,near_bathing_water
+CSO-001,High,5000,Yes
+CSO-002,Medium,1200,No
+CSO-003,Low,500,No
+CSO-004,Low,800,No
+CSO-005,High,10000,Yes
+CSO-006,High,200,Yes
+CSO-007,Medium,3000,No
